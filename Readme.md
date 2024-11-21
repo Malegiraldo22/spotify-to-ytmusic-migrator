@@ -1,4 +1,4 @@
-# Spotify to Youtube Music Script Playlist Migrator
+# Spotify to Youtube Music Playlist Migrator
 
 ## Overview
 
@@ -26,7 +26,7 @@ Before you begin, ensure you have the following:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/malegiraldo22/spotify-to-ytmusic-migrator.git
+git clone https://github.com/Malegiraldo22/spotify-to-ytmusic-migrator.git
 cd spotify-to-yt-music-migrator.git
 ```
 
